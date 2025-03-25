@@ -25,7 +25,7 @@
 📚 I'm currently committed to the continual growth of my coding capabilities
 📝 I have a strong interest in Software Engineering and Design
 🌱 Learning cloud services nowadays
-🌟 Main language: Java 😁
+🌟 Main language: Java 
 🚩 Interested in UI/UX 
 😃 I look forward to collaborate on impactful projects
 </pre>
